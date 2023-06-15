@@ -366,7 +366,7 @@ html, body {
 .portfolio-item {
     height: 280px;
     margin-bottom: 30px;
-    position: relative;
+    
 }
 
 .section-portfolio .col-md-4:nth-last-child(-n+3) .portfolio-item {
